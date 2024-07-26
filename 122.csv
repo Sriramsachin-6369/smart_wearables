@@ -1,0 +1,17 @@
+employee_id,day_of_week,hour_10,hour_11,hour_12,hour_13,hour_14,hour_15,hour_16
+1,1,ClassA,ClassB,ClassC,NULL,ClassE,NULL,NULL
+2,1,ClassX,ClassY,NULL,NULL,NULL,ClassW,NULL
+3,1,ClassB,ClassY,NULL,NULL,CLassW,classA,NULL
+4,1,ClassC,CLassZ,ClassY,NULL,CLassA,NULL,NULL
+2,2,ClassA,ClassB,ClassC,NULL,ClassE,NULL,NULL
+3,2,ClassX,ClassY,NULL,NULL,NULL,ClassW,NULL
+4,2,ClassB,ClassY,NULL,NULL,CLassW,classA,NULL
+1,2,ClassC,CLassZ,ClassY,NULL,CLassA,NULL,NULL
+2,3,ClassB,ClassY,NULL,NULL,CLassW,classA,NULL
+3,3,ClassC,CLassZ,ClassY,NULL,CLassA,NULL,NULL
+4,3,ClassA,ClassB,ClassC,NULL,ClassE,NULL,NULL
+1,3,ClassX,ClassY,NULL,NULL,NULL,ClassW,NULL
+2,4,ClassC,CLassZ,ClassY,NULL,CLassA,NULL,NULL
+3,4,ClassA,ClassB,ClassC,NULL,ClassE,NULL,NULL
+4,4,ClassX,ClassY,NULL,NULL,NULL,ClassW,NULL
+1,4,ClassB,ClassY,NULL,NULL,CLassW,classA,NULL
